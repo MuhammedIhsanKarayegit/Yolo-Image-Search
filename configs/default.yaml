@@ -1,0 +1,3 @@
+model:
+  yolomodel: "yolo11m.pt"
+  conf?threshold: 0.3
